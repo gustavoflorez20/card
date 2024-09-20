@@ -1,0 +1,60 @@
+body{
+    background-color: #F5D04E;
+}
+
+button{
+    background-color:#F5D04E;
+    border-color: #F5D04E;
+    border-radius: 3px;
+    margin-left: 10px;
+    
+    
+}
+.container {
+    border: 12px solid black;
+    width: 400px;
+    height: 800;
+    margin: 0 auto;
+    border-left: 3px solid black;
+    border-right: 10px solid black;
+    border-top: 2px solid black;
+    border-radius: 20px;
+    background-color: white;
+   
+   
+}
+
+.card img{
+    border-radius: 8px;
+    margin: 0 auto;
+    display: block;
+    border: 2px;
+    border-top: 10px;
+}
+.firma img{
+    border-radius: 50px;
+    border: 2px;
+    display: inline;
+    margin: 0 auto;
+}
+    
+
+ .imagen{
+    margin: 0 auto;
+    border-radius: 10px;
+ }
+ img {
+    max-width: 100%;
+    height: auto;
+}
+
+ p{
+    margin-left: 10px;
+ }
+ h1{
+    margin-left: 10px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size: 30px;
+ }
+
+ 
